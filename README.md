@@ -5,5 +5,5 @@ Resources were taken from various sources.
 
 # Made by Avgustine Chynarbekov
 
-# Used Framework:JavaFX
+# Used Framework: JavaFX
 
